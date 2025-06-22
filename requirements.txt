@@ -1,0 +1,7 @@
+Flask>=2.0
+requests>=2.25
+google-api-python-client
+google-auth-oauthlib
+python-dateutil
+python-dotenv
+
